@@ -5,8 +5,8 @@
 # Example - House + Land + Business + All Account Balance + Cash
 # Liabilities - Takes money out of your pocket uh bank / bitcoin account uh
 
-assets = int(input("Assets(In $): "))
-liabilities = int(input("Liabilities(In $): "))
+assets = int(input("Total Assets(In $): "))
+liabilities = int(input("Total Liabilities(In $): "))
 net_worth = assets - liabilities
 print("Your Net Worth is: $ " + str(net_worth))
 if assets > liabilities:
