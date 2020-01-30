@@ -2,4 +2,4 @@
   Created with the sole motive to learn operators.
   1. The War between Assets and Liabilities - A Basic Net Worth Calculator.
   
-  2. Divide and Conquer to Multiply Wealth - A Basic Interest Calculator.
+  2. Divide and Conquer to Multiply Wealth - Find out how long does it take to double your money.
